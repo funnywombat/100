@@ -129,7 +129,7 @@ function App() {
 
     useEffect(() => {
         const data = {
-            support_url: "https://t.me/PROS100K_support"
+            support_url: "t.me/tezzt2024"
         }
         setMultiData(data)
     }, [])
